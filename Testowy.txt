@@ -1,1 +1,3 @@
 dfsdfsdafsdfasdfasfd
+
+To jest pierwsza zmianan w pliku.
