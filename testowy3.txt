@@ -1,0 +1,3 @@
+Testujemy git commit amend
+
+jednak nie testujemy
