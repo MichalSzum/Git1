@@ -1,3 +1,7 @@
 Testujemy git commit amend
 
 jednak nie testujemy
+
+Kiedyś były czasy
+
+test push
