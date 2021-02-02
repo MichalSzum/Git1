@@ -5,3 +5,5 @@ jednak nie testujemy
 Kiedyś były czasy
 
 test push
+
+test branch mojagalaz
